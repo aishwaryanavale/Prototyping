@@ -1,0 +1,46 @@
+.navbar-nav  li a:hover {
+      color: #ff5851 !important;
+    }
+
+.bg-1 {
+
+    color: #414a6b;
+}
+
+.abc
+{
+  font-size: 100px;
+  margin:0 0 0 10px;
+  font-style: black;
+}
+
+.bg-2
+{
+      background-color: #414a6b;
+      color: #ffffff;
+}
+.fc
+{
+  color:#414a6b ;
+}
+.abcd
+{
+  font-size: 16px;
+  font-style: bold;
+}
+
+@media(min-width:990px)
+{
+  .abc
+  {
+    font-size: 80px;
+    margin:0 0 0 250px;
+  }
+
+  .navbar-nav
+  {
+    position:absolute !important;
+    right:20px;
+  }
+
+}
